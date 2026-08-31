@@ -510,10 +510,6 @@ Beberapa pengembangan yang dapat dilakukan:
 
 ---
 
-## 👨‍💻 Author
-
-**Your Name**
-
 Data Visualization & Machine Learning Project
 
 ---
