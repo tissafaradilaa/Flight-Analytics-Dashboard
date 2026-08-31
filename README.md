@@ -10,15 +10,15 @@ Project ini digunakan untuk menganalisis performa penerbangan, mengidentifikasi 
 
 ### Flight Analytics Dashboard
 
-![Flight Analytics Dashboard](output/Cuplikan layar 2026-08-31 073939.png)
+![Flight Analytics Dashboard](output/dashboard.png)
 
 ### Machine Learning
 
-![Machine Learning Dashboard](output/Cuplikan layar 2026-09-01 041031.png)
+![Machine Learning Dashboard](output/machine-learning.png)
 
 ### Data
 
-![DATASET Dashboard](output/Cuplikan layar 2026-09-01 042731.png)
+![Dataset Dashboard](output/dataset.png)
 
 ---
 
